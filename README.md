@@ -1,5 +1,8 @@
 # Chest-X-Ray-Diagnosis-with-Densenet121
 
+![alt text](https://github.com/Asif1405/Chest-X-Ray-Diagnosis-with-Densenet121/blob/master/111.PNG)
+![alt text](https://github.com/Asif1405/Chest-X-Ray-Diagnosis-with-Densenet121/blob/master/222.PNG)
+
 ### Overview:
 In this project I used a DenseNet to create a medical imaging of chest x-rays to detect primarily pneumonia among other chest diseases. 
 
